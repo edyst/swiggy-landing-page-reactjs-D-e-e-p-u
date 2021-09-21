@@ -7,6 +7,7 @@ import Ftr from './ftr';
 // import PinterestIcon from '@material-ui/icons/Pinterest';
 // import InstagramIcon from '@material-ui/icons/Instagram';
 // import TwitterIcon from '@material-ui/icons/Twitter';
+//trash
 
 
 function footer() {
