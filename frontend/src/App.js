@@ -1,6 +1,6 @@
 import React from 'react';
-import Header from './swiggy_components/header_swiggy';
-import Body from './swiggy_components/body_s';
+import Header from './swiggy_components/header';
+import Body from './swiggy_components/body';
 import Footer from './swiggy_components/footer';
 import Sec from './swiggy_components/sec3';
 import './App.css'

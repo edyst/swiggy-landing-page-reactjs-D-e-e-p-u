@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './header_swiggy.css'
+import './header.css'
 function Header() {
     const [data , setData] = useState('');
     return (

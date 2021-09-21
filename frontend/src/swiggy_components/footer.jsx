@@ -3,10 +3,10 @@ import React from 'react'
 import './ftr.css';
 import {footer_section,midFooter} from '../All_Data/mydata';
 import Ftr from './ftr';
-import FacebookIcon from '@material-ui/icons/Facebook';
-import PinterestIcon from '@material-ui/icons/Pinterest';
-import InstagramIcon from '@material-ui/icons/Instagram';
-import TwitterIcon from '@material-ui/icons/Twitter';
+// import FacebookIcon from '@material-ui/icons/Facebook';
+// import PinterestIcon from '@material-ui/icons/Pinterest';
+// import InstagramIcon from '@material-ui/icons/Instagram';
+// import TwitterIcon from '@material-ui/icons/Twitter';
 
 
 function footer() {
@@ -30,12 +30,12 @@ function footer() {
 <div className="last_footer">
     <img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_284/Logo_f5xzza" alt="" />
     <p>©️2021 Swiggy</p>
-    <div>
-   <a href="https://www.swiggy.com"><FacebookIcon/></a> 
-    <a href="https://www.swiggy.com"><PinterestIcon/></a> 
-    <a href="https://www.swiggy.com"><InstagramIcon/></a> 
-    <a href="https://www.swiggy.com"><TwitterIcon/></a> 
-    </div>
+    {/* <div>
+   <a><FacebookIcon/></a> 
+    <a><PinterestIcon/></a> 
+    <a><InstagramIcon/></a> 
+    <a><TwitterIcon/></a> 
+    </div> */}
 </div>
 
         </div>

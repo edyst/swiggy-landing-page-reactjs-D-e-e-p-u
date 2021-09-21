@@ -1,5 +1,5 @@
 import React from 'react';
-import './body_s.css'
+import './body.css'
 function body(props) {
     return (
         <div className="body__container">
